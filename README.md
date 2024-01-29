@@ -1,1 +1,1 @@
-"RocketPaperScissors" 
+"RockPaperScissors" 
